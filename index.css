@@ -1,0 +1,70 @@
+body {
+  background-color:aliceblue;
+}
+
+.db {
+  display: block;
+}
+
+.dt {
+  display: table;
+}
+.white {
+  color: #fff !important;
+}
+.dtc {
+  display:flex;
+}
+
+.lh-copy {
+  line-height: 1.5;
+}
+
+.mw5 {
+  max-width: 16rem;
+}
+
+.mw8 {
+  max-width: 70rem;
+}
+
+.pl3 {
+  padding-left: 2rem;
+}
+
+.pv4 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.mv0 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.center {
+  margin-right:50%;
+  margin-left: auto;
+}
+.wd{
+  width:100%;
+}
+
+.v-top {
+  vertical-align: top;
+}
+
+@media screen and (min-width: 30em) {
+  .pv6-ns {
+      padding-top: 8rem;
+      padding-bottom: 8rem;
+  }
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .pv5-m {
+      padding-top: 4rem;
+      padding-bottom: 4rem;
+  }
+}
+
